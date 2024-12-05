@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eF87BFryE+ZsZseRHVoJh5/crUlJmPU9GWHTpVnB0FM=",
+  "Source": "DbsUsersManagementService",
+  "BasePath": "_content/DbsUsersManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
