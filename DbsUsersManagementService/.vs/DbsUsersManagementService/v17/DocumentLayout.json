@@ -1,240 +1,828 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\",
+  "WorkspaceRootPath": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Migrations\\20241205161627_AddTeamsAndRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbsUsersManagementService\\Migrations\\20241205161627_AddTeamsAndRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\data\\dbsuserdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\data\\dbsuserdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\startup\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\startup\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\filters\\validatemodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\filters\\validatemodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\validation\\validatorinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\validation\\validatorinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\validation\\validatorregisterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\validation\\validatorregisterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\migrations\\20241228095615_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\migrations\\20241228095615_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\auth\\customauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\auth\\customauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\services\\implementations\\authenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\services\\implementations\\authenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\domain\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\domain\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\services\\interfaces\\iauthenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\services\\interfaces\\iauthenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\data\\dbsuserauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\data\\dbsuserauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\data\\dbsuserauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\domain\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\domain\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\controllers\\imageuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\controllers\\imageuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\domain\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\domain\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Migrations\\20241228095602_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbsUsersManagementService\\Migrations\\20241228095602_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\auth\\customauthorizationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\auth\\customauthorizationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\utilities\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\utilities\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\utilities\\serverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\utilities\\serverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\validation\\validatorupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\validation\\validatorupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\validation\\validatorrequestbatchinspectionimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\validation\\validatorrequestbatchinspectionimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\validation\\validatorusersearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\validation\\validatorusersearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\validation\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\validation\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\validation\\validatorloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\validation\\validatorloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\constants\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\constants\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\dbsusersmanagementservice\\dbsusersmanagementservice\\utilities\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\utilities\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\validation\\validatorwithfullindexerpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\validation\\validatorwithfullindexerpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\dtos\\usersearchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\dtos\\usersearchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\dbsusersmanagementservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\dbsusersmanagementservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\errormodels\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\errormodels\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\domain\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\domain\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\presentation\\constants\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\presentation\\constants\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\models\\domain\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\models\\domain\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsusersmanagementservice\\dbsusersmanagementservice\\dbsusersmanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{013D3113-3F9E-4A64-A56F-1FEB510F5AA5}|DbsUsersManagementService\\DbsUsersManagementService.csproj|solutionrelative:dbsusersmanagementservice\\dbsusersmanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 333,
+          "SelectedChildIndex": 32,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
+              "Title": "AuthenService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Services\\Implementations\\AuthenService.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Services\\Implementations\\AuthenService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Services\\Implementations\\AuthenService.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Services\\Implementations\\AuthenService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:05:26.316Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Program.cs",
               "RelativeDocumentMoniker": "DbsUsersManagementService\\Program.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Program.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Program.cs",
               "RelativeToolTip": "DbsUsersManagementService\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T03:11:00.911Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DbsUserAuthDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Data\\DbsUserAuthDbContext.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Data\\DbsUserAuthDbContext.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Data\\DbsUserAuthDbContext.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Data\\DbsUserAuthDbContext.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:48:31.418Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthenService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Services\\Interfaces\\IAuthenService.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Services\\Interfaces\\IAuthenService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Services\\Interfaces\\IAuthenService.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Services\\Interfaces\\IAuthenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:53:28.392Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:29:22.165Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:45:00.943Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:41:30.467Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "DbsUsersManagementService\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Title": "ValidatorRegisterRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorRegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorRegisterRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorRegisterRequestDto.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorRegisterRequestDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T04:29:22.165Z",
+              "WhenOpened": "2024-12-09T14:25:55.178Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Services\\Implementations\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\Services\\Implementations\\AuthenticationService.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Services\\Implementations\\AuthenticationService.cs",
-              "RelativeToolTip": "DbsUsersManagementService\\Services\\Implementations\\AuthenticationService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDoAAAAAAAAAAAAAAA==",
+              "Title": "ValidatorInterceptor.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorInterceptor.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorInterceptor.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorInterceptor.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorInterceptor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T15:17:45.767Z",
+              "WhenOpened": "2024-12-09T08:21:19.894Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241205161627_AddTeamsAndRoles.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Migrations\\20241205161627_AddTeamsAndRoles.cs",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\Migrations\\20241205161627_AddTeamsAndRoles.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Migrations\\20241205161627_AddTeamsAndRoles.cs",
-              "RelativeToolTip": "DbsUsersManagementService\\Migrations\\20241205161627_AddTeamsAndRoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ValidateModelFilter.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T16:16:27.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbsUserDbContext.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Data\\DbsUserDbContext.cs",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\Data\\DbsUserDbContext.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Data\\DbsUserDbContext.cs",
-              "RelativeToolTip": "DbsUsersManagementService\\Data\\DbsUserDbContext.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T15:36:39.78Z",
+              "WhenOpened": "2024-12-09T08:26:22.693Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\appsettings.json",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\appsettings.json",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\appsettings.json",
-              "RelativeToolTip": "DbsUsersManagementService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-05T03:11:01.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\Roles.cs",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\Domain\\Roles.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\Roles.cs",
-              "RelativeToolTip": "DbsUsersManagementService\\Models\\Domain\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwBMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T15:42:57.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DbsUserAuthDbContext.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Data\\DbsUserAuthDbContext.cs",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\Data\\DbsUserAuthDbContext.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Data\\DbsUserAuthDbContext.cs",
-              "RelativeToolTip": "DbsUsersManagementService\\Data\\DbsUserAuthDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T03:20:50.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserRoles.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\UserRoles.cs",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\Domain\\UserRoles.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\UserRoles.cs",
-              "RelativeToolTip": "DbsUsersManagementService\\Models\\Domain\\UserRoles.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T15:44:45.246Z",
+              "WhenOpened": "2024-12-11T09:05:27.747Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Teams.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\Teams.cs",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\Domain\\Teams.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\Teams.cs",
-              "RelativeToolTip": "DbsUsersManagementService\\Models\\Domain\\Teams.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T15:41:54.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterRequestDto.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\RegisterRequestDto.cs",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\DTOs\\RegisterRequestDto.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\RegisterRequestDto.cs",
-              "RelativeToolTip": "DbsUsersManagementService\\Models\\DTOs\\RegisterRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T03:44:48.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IAuthenticationService.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Services\\Interfaces\\IAuthenticationService.cs",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\Services\\Interfaces\\IAuthenticationService.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Services\\Interfaces\\IAuthenticationService.cs",
-              "RelativeToolTip": "DbsUsersManagementService\\Services\\Interfaces\\IAuthenticationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T15:16:35.295Z",
-              "EditorCaption": ""
+              "Title": "appsettings.Docker.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\appsettings.Docker.json",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\appsettings.Docker.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\appsettings.Docker.json",
+              "RelativeToolTip": "DbsUsersManagementService\\appsettings.Docker.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T09:59:41.821Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ValidationHelper.cs",
-              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Utilities\\ValidationHelper.cs",
-              "RelativeDocumentMoniker": "DbsUsersManagementService\\Utilities\\ValidationHelper.cs",
-              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\Utilities\\ValidationHelper.cs",
-              "RelativeToolTip": "DbsUsersManagementService\\Utilities\\ValidationHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Title": "20241228095615_Initial.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Migrations\\20241228095615_Initial.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Migrations\\20241228095615_Initial.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Migrations\\20241228095615_Initial.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Migrations\\20241228095615_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:31:45.586Z",
+              "WhenOpened": "2024-12-28T09:56:15.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241228095602_Initial.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Migrations\\20241228095602_Initial.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Migrations\\20241228095602_Initial.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Migrations\\20241228095602_Initial.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Migrations\\20241228095602_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:56:02.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DbsUsersManagementService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T03:07:20.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\appsettings.Development.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\appsettings.Development.json",
+              "RelativeToolTip": "DbsUsersManagementService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T13:45:17.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\.dockerignore",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\.dockerignore",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\.dockerignore",
+              "RelativeToolTip": "DbsUsersManagementService\\.dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-23T08:25:44.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Dockerfile",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Dockerfile",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Dockerfile",
+              "RelativeToolTip": "DbsUsersManagementService\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-23T06:50:31.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomAuthorizationRequirement.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:34:15.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServerException.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Utilities\\ServerException.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Utilities\\ServerException.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Utilities\\ServerException.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Utilities\\ServerException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:55:43.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Constants\\Constants.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Constants\\Constants.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Constants\\Constants.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Constants\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:13:39.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Constants\\Application.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Constants\\Application.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Constants\\Application.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Constants\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:13:34.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ImageUploadController.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Controllers\\ImageUploadController.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Controllers\\ImageUploadController.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Controllers\\ImageUploadController.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Controllers\\ImageUploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:19:49.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ValidatorUpdateRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorUpdateRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorUpdateRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorUpdateRequestDto.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorUpdateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:37:05.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ValidatorRequestBatchInspectionImage.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorRequestBatchInspectionImage.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorRequestBatchInspectionImage.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorRequestBatchInspectionImage.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorRequestBatchInspectionImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:37:02.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:36:57.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ValidatorUserSearchRequest.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorUserSearchRequest.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorUserSearchRequest.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorUserSearchRequest.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorUserSearchRequest.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:43:35.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserSearchResponseDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\UserSearchResponseDto.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\DTOs\\UserSearchResponseDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\UserSearchResponseDto.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Models\\DTOs\\UserSearchResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:42:49.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomAuthorizationHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:40:21.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DbsUsersManagementService",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\DbsUsersManagementService.csproj",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj",
+              "RelativeToolTip": "DbsUsersManagementService\\DbsUsersManagementService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T06:57:50.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ValidatorLoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorLoginRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorLoginRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorLoginRequestDto.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorLoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:20:02.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\appsettings.json",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\appsettings.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\appsettings.json",
+              "RelativeToolTip": "DbsUsersManagementService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T03:33:16.664Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Models\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:13:22.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Models\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:13:22.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ValidatorWithFullIndexerPath.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorWithFullIndexerPath.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorWithFullIndexerPath.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Validation\\ValidatorWithFullIndexerPath.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Validation\\ValidatorWithFullIndexerPath.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:29:30.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:02:21.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Models\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:06:22.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ErrorCode.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:37:23.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\docker-compose.yml",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\docker-compose.yml",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\docker-compose.yml",
+              "RelativeToolTip": "DbsUsersManagementService\\docker-compose.yml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-11T08:29:55.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\DTOs\\RegisterRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\DTOs\\RegisterRequestDto.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Models\\DTOs\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:22:38.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\Domain\\User.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\User.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Models\\Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:56:24.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Base\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\Base\\AuditableEntity.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Base\\AuditableEntity.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Models\\Base\\AuditableEntity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:00:32.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\UserRole.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\Domain\\UserRole.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\UserRole.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Models\\Domain\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:16:29.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\Role.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\Domain\\Role.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\Role.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Models\\Domain\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:16:21.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\Team.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\Domain\\Team.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\Domain\\Team.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Models\\Domain\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:16:22.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DbsUsersManagementService.csproj",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\DbsUsersManagementService.csproj",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj",
+              "RelativeToolTip": "DbsUsersManagementService\\DbsUsersManagementService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T16:05:42.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserFriendlyException.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Utilities\\UserFriendlyException.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Utilities\\UserFriendlyException.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Utilities\\UserFriendlyException.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Utilities\\UserFriendlyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:18:12.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\ErrorModels\\Error.cs",
+              "RelativeDocumentMoniker": "DbsUsersManagementService\\Models\\ErrorModels\\Error.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\Models\\ErrorModels\\Error.cs",
+              "RelativeToolTip": "DbsUsersManagementService\\Models\\ErrorModels\\Error.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:18:05.836Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

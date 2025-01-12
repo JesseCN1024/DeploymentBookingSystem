@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj": {}
+    "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj": {
+    "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj",
+        "projectUniqueName": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj",
         "projectName": "DbsUsersManagementService",
-        "projectPath": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj",
+        "projectPath": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\DbsUsersManagementService.csproj",
         "packagesPath": "C:\\Users\\Khoa Nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Codes\\workspace\\fpt_intern\\DbsUsersManagementService\\DbsUsersManagementService\\obj\\",
+        "outputPath": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsUsersManagementService\\DbsUsersManagementService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.11.0, )"
@@ -59,10 +63,6 @@
               "version": "[11.3.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[8.0.11, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
             },
@@ -84,6 +84,22 @@
               "target": "Package",
               "version": "[8.3.0, )"
             },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -91,6 +107,10 @@
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[8.3.0, )"
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

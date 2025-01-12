@@ -1,0 +1,119 @@
+[
+  {
+    "ContainingType": "DbsUsersManagementService.Controllers.ImageUploadController",
+    "Method": "RequestInspectionImageUploadUrlBatch2",
+    "RelativePath": "image",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestModel",
+        "Type": "DbsUsersManagementService.Models.DTOs.RequestBatchInspectionImageUploadUrlModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbsUsersManagementService.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerRequest",
+        "Type": "DbsUsersManagementService.Models.DTOs.RegisterRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbsUsersManagementService.Controllers.AuthController",
+    "Method": "GetById",
+    "RelativePath": "users/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbsUsersManagementService.Controllers.AuthController",
+    "Method": "Update",
+    "RelativePath": "users/{userId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateRequest",
+        "Type": "DbsUsersManagementService.Models.DTOs.UpdateRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbsUsersManagementService.Controllers.AuthController",
+    "Method": "Delete",
+    "RelativePath": "users/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbsUsersManagementService.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "DbsUsersManagementService.Models.DTOs.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbsUsersManagementService.Controllers.AuthController",
+    "Method": "GetAll",
+    "RelativePath": "users/search",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userSearchRequestDto",
+        "Type": "DbsUsersManagementService.Models.DTOs.UserSearchRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

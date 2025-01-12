@@ -1,0 +1,662 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\controllers\\envcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\controllers\\envcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\dbsenvmanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\dbsenvmanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\dbsenvmanagementservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\dbsenvmanagementservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\auth\\customauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\auth\\customauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\services\\interfaces\\ienvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\services\\interfaces\\ienvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\services\\implementations\\envservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\services\\implementations\\envservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\auth\\customauthorizationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\auth\\customauthorizationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\models\\dtos\\envresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\models\\dtos\\envresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\filters\\validatemodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\filters\\validatemodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\repositories\\envrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\repositories\\envrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\models\\domain\\env.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\models\\domain\\env.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\utilities\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\utilities\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\utilities\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\utilities\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\utilities\\serverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\utilities\\serverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\startup\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\startup\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\validation\\validatorupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\validation\\validatorupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\validation\\validatorsearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\validation\\validatorsearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\validation\\validatorinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\validation\\validatorinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\validation\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\validation\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\repositories\\ienvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\repositories\\ienvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\dbsenvmanagementservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\dbsenvmanagementservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\models\\dtos\\searchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\models\\dtos\\searchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\models\\dtos\\updaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\models\\dtos\\updaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\models\\dtos\\searchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\models\\dtos\\searchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\models\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\models\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\validation\\validatorwithfullindexerpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\validation\\validatorwithfullindexerpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\constants\\validationconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\constants\\validationconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\constants\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\constants\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\presentation\\constants\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\presentation\\constants\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\Domain\\Environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbsEnvManagementService\\Models\\Domain\\Environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsenvmanagementservice\\dbsenvmanagementservice\\migrations\\20241229030403_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814E9ECA-EBC5-4C82-B046-569FBCC8549F}|DbsEnvManagementService\\DbsEnvManagementService.csproj|solutionrelative:dbsenvmanagementservice\\migrations\\20241229030403_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 183,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 333,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEnvRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Repositories\\IEnvRepository.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Repositories\\IEnvRepository.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Repositories\\IEnvRepository.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Repositories\\IEnvRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:31:45.587Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnvRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Repositories\\EnvRepository.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Repositories\\EnvRepository.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Repositories\\EnvRepository.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Repositories\\EnvRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:30:07.664Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnvService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Services\\Implementations\\EnvService.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Services\\Implementations\\EnvService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Services\\Implementations\\EnvService.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Services\\Implementations\\EnvService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:44:55.424Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnvController.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Controllers\\EnvController.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Controllers\\EnvController.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Controllers\\EnvController.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Controllers\\EnvController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T05:29:18.703Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEnvService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Services\\Interfaces\\IEnvService.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Services\\Interfaces\\IEnvService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Services\\Interfaces\\IEnvService.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Services\\Interfaces\\IEnvService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:59:43.184Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Program.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Program.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Program.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAvwHUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:28:29.742Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomAuthorizationHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:36:39.574Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomAuthorizationRequirement.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:36:58.075Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241229030403_Initial.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Migrations\\20241229030403_Initial.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Migrations\\20241229030403_Initial.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Migrations\\20241229030403_Initial.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Migrations\\20241229030403_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:04:03.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\appsettings.Development.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\appsettings.Development.json",
+              "RelativeToolTip": "DbsEnvManagementService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T03:02:38.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Docker.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\appsettings.Docker.json",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\appsettings.Docker.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\appsettings.Docker.json",
+              "RelativeToolTip": "DbsEnvManagementService\\appsettings.Docker.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T03:02:36.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Utilities\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Utilities\\ValidationHelper.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Utilities\\ValidationHelper.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Utilities\\ValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:51:50.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserFriendlyException.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Utilities\\UserFriendlyException.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Utilities\\UserFriendlyException.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Utilities\\UserFriendlyException.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Utilities\\UserFriendlyException.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:51:46.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ValidatorUpdateRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Validation\\ValidatorUpdateRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Validation\\ValidatorUpdateRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Validation\\ValidatorUpdateRequestDto.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Validation\\ValidatorUpdateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:22:19.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnvResponseDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\DTOs\\EnvResponseDto.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Models\\DTOs\\EnvResponseDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\DTOs\\EnvResponseDto.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Models\\DTOs\\EnvResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:57:45.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Env.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\Domain\\Env.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Models\\Domain\\Env.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\Domain\\Env.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Models\\Domain\\Env.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:52:36.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ValidatorSearchRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Validation\\ValidatorSearchRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Validation\\ValidatorSearchRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Validation\\ValidatorSearchRequestDto.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Validation\\ValidatorSearchRequestDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:43:53.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SearchResponseDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\DTOs\\SearchResponseDto.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Models\\DTOs\\SearchResponseDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\DTOs\\SearchResponseDto.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Models\\DTOs\\SearchResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:43:00.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SearchRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\DTOs\\SearchRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Models\\DTOs\\SearchRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\DTOs\\SearchRequestDto.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Models\\DTOs\\SearchRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:40:54.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\appsettings.json",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\appsettings.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\appsettings.json",
+              "RelativeToolTip": "DbsEnvManagementService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T03:33:09.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:28:32.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbsEnvManagementService.csproj",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\DbsEnvManagementService.csproj",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\DbsEnvManagementService.csproj",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\DbsEnvManagementService.csproj",
+              "RelativeToolTip": "DbsEnvManagementService\\DbsEnvManagementService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T03:18:14.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\DTOs\\UpdateRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Models\\DTOs\\UpdateRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\DTOs\\UpdateRequestDto.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Models\\DTOs\\UpdateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:12:51.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Environment.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\Domain\\Environment.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Models\\Domain\\Environment.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\Domain\\Environment.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Models\\Domain\\Environment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:08:53.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServerException.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Utilities\\ServerException.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Utilities\\ServerException.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Utilities\\ServerException.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Utilities\\ServerException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:37:40.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:37:37.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:37:28.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValidateModelFilter.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:37:26.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ValidationConstant.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Constants\\ValidationConstant.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Constants\\ValidationConstant.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Constants\\ValidationConstant.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Constants\\ValidationConstant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:37:24.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorCode.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:37:22.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Constants\\Constants.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Constants\\Constants.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Constants\\Constants.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Constants\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:37:17.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Constants\\Application.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Constants\\Application.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Constants\\Application.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Constants\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:37:05.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\Base\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Models\\Base\\AuditableEntity.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Models\\Base\\AuditableEntity.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Models\\Base\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:36:50.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:36:26.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ValidatorWithFullIndexerPath.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Validation\\ValidatorWithFullIndexerPath.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Validation\\ValidatorWithFullIndexerPath.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Validation\\ValidatorWithFullIndexerPath.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Validation\\ValidatorWithFullIndexerPath.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:28:50.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ValidatorInterceptor.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Validation\\ValidatorInterceptor.cs",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\Presentation\\Validation\\ValidatorInterceptor.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\Presentation\\Validation\\ValidatorInterceptor.cs",
+              "RelativeToolTip": "DbsEnvManagementService\\Presentation\\Validation\\ValidatorInterceptor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:28:45.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbsEnvManagementService.http",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\DbsEnvManagementService.http",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\DbsEnvManagementService.http",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\DbsEnvManagementService.http",
+              "RelativeToolTip": "DbsEnvManagementService\\DbsEnvManagementService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-17T02:28:28.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DbsEnvManagementService",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\DbsEnvManagementService.csproj",
+              "RelativeDocumentMoniker": "DbsEnvManagementService\\DbsEnvManagementService.csproj",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsEnvManagementService\\DbsEnvManagementService\\DbsEnvManagementService.csproj",
+              "RelativeToolTip": "DbsEnvManagementService\\DbsEnvManagementService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T02:00:10.153Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

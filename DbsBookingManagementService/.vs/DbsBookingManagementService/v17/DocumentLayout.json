@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\services\\implementations\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\services\\implementations\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\dbsbookingmanagementservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\dbsbookingmanagementservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\migrations\\20241228151721_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\migrations\\20241228151721_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\presentation\\auth\\customauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\presentation\\auth\\customauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\repositories\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\repositories\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\repositories\\inplementations\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\repositories\\inplementations\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\models\\dtos\\bookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\models\\dtos\\bookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\models\\dtos\\creatingbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\models\\dtos\\creatingbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\presentation\\auth\\customauthorizationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\presentation\\auth\\customauthorizationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\presentation\\validation\\validatorcreatingbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\presentation\\validation\\validatorcreatingbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\presentation\\constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\presentation\\constants\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\presentation\\constants\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\presentation\\constants\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\presentation\\constants\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\presentation\\constants\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\models\\dtos\\editbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\models\\dtos\\editbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\utilities\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\utilities\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\presentation\\validation\\validatoreditbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\presentation\\validation\\validatoreditbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\presentation\\validation\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\presentation\\validation\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\models\\errormodels\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\models\\errormodels\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\models\\domain\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\models\\domain\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbookingmanagementservice\\dbsbookingmanagementservice\\models\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8D7B85-FC34-4303-97DF-BC69B69AF44A}|DbsBookingManagementService\\DbsBookingManagementService.csproj|solutionrelative:dbsbookingmanagementservice\\models\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 188,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 333,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Program.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Program.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Program.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:48:54.652Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Repositories\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Repositories\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Repositories\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Repositories\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:12:40.87Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Services\\Interfaces\\IBookingService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Services\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:06:44.316Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Repositories\\Inplementations\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Repositories\\Inplementations\\BookingRepository.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Repositories\\Inplementations\\BookingRepository.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Repositories\\Inplementations\\BookingRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:12:58.578Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:54:51.207Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Services\\Implementations\\BookingService.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Services\\Implementations\\BookingService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Services\\Implementations\\BookingService.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Services\\Implementations\\BookingService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:00:47.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DbsBookingManagementService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T13:08:11.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbsBookingManagementService",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\DbsBookingManagementService.csproj",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\DbsBookingManagementService.csproj",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\DbsBookingManagementService.csproj",
+              "RelativeToolTip": "DbsBookingManagementService\\DbsBookingManagementService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T13:08:08.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\appsettings.Development.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\appsettings.Development.json",
+              "RelativeToolTip": "DbsBookingManagementService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T15:17:59.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Docker.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\appsettings.Docker.json",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\appsettings.Docker.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\appsettings.Docker.json",
+              "RelativeToolTip": "DbsBookingManagementService\\appsettings.Docker.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T15:17:46.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241228151721_initial.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Migrations\\20241228151721_initial.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Migrations\\20241228151721_initial.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Migrations\\20241228151721_initial.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Migrations\\20241228151721_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:17:21.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomAuthorizationRequirement.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Presentation\\Auth\\CustomAuthorizationRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:04:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomAuthorizationHandler.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Presentation\\Auth\\CustomAuthorizationHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:09:09.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingResponseDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\DTOs\\BookingResponseDto.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Models\\DTOs\\BookingResponseDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\DTOs\\BookingResponseDto.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Models\\DTOs\\BookingResponseDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:41:30.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorCode.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Presentation\\Constants\\ErrorCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:38:45.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Constants\\Application.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Presentation\\Constants\\Application.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Constants\\Application.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Presentation\\Constants\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:38:24.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Constants\\Constants.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Presentation\\Constants\\Constants.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Constants\\Constants.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Presentation\\Constants\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:38:23.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserFriendlyException.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Utilities\\UserFriendlyException.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Utilities\\UserFriendlyException.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Utilities\\UserFriendlyException.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Utilities\\UserFriendlyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:31:59.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ValidatorEditBookingRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Validation\\ValidatorEditBookingRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Presentation\\Validation\\ValidatorEditBookingRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Validation\\ValidatorEditBookingRequestDto.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Presentation\\Validation\\ValidatorEditBookingRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:51:52.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValidatorCreatingBookingRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Validation\\ValidatorCreatingBookingRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Presentation\\Validation\\ValidatorCreatingBookingRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Validation\\ValidatorCreatingBookingRequestDto.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Presentation\\Validation\\ValidatorCreatingBookingRequestDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:51:27.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Presentation\\Validation\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:51:28.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\ErrorModels\\Error.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Models\\ErrorModels\\Error.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\ErrorModels\\Error.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Models\\ErrorModels\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:20:27.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditBookingRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\DTOs\\EditBookingRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Models\\DTOs\\EditBookingRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\DTOs\\EditBookingRequestDto.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Models\\DTOs\\EditBookingRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:10:49.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\appsettings.json",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\appsettings.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\appsettings.json",
+              "RelativeToolTip": "DbsBookingManagementService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T08:19:13.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:15:45.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreatingBookingRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\DTOs\\CreatingBookingRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Models\\DTOs\\CreatingBookingRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\DTOs\\CreatingBookingRequestDto.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Models\\DTOs\\CreatingBookingRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:06:43.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\Base\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Models\\Base\\AuditableEntity.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\Base\\AuditableEntity.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Models\\Base\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:01:23.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\Domain\\Booking.cs",
+              "RelativeDocumentMoniker": "DbsBookingManagementService\\Models\\Domain\\Booking.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBookingManagementService\\DbsBookingManagementService\\Models\\Domain\\Booking.cs",
+              "RelativeToolTip": "DbsBookingManagementService\\Models\\Domain\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:00:51.887Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

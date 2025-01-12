@@ -1,0 +1,87 @@
+[
+  {
+    "ContainingType": "DbsEnvManagementService.Controllers.EnvController",
+    "Method": "GetAllEnvs",
+    "RelativePath": "environments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "DbsEnvManagementService.Models.DTOs.SearchRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbsEnvManagementService.Controllers.EnvController",
+    "Method": "CreateEnv",
+    "RelativePath": "environments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "DbsEnvManagementService.Models.DTOs.UpdateRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbsEnvManagementService.Controllers.EnvController",
+    "Method": "GetEnvById",
+    "RelativePath": "environments/{environmentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "environmentId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbsEnvManagementService.Controllers.EnvController",
+    "Method": "UpdateEnv",
+    "RelativePath": "environments/{environmentId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "environmentId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "requestDto",
+        "Type": "DbsEnvManagementService.Models.DTOs.UpdateRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbsEnvManagementService.Controllers.EnvController",
+    "Method": "DeleteEnv",
+    "RelativePath": "environments/{environmentId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "environmentId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

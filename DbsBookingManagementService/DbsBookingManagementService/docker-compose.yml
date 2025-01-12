@@ -1,0 +1,43 @@
+services:
+  booking-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5005:80"
+    networks:
+    - dbs_network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Docker
+    depends_on:
+      - booking-db
+
+  booking-db:
+    image: postgres:13
+    networks:
+    - dbs_network
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: BookingDb
+    ports:
+      - "5434:5432"
+    volumes:
+      - booking-db-data:/var/lib/postgresql/data
+  pgadmin:
+    image: dpage/pgadmin4
+    ports:
+      - "8004:8001"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+      PGADMIN_LISTEN_PORT: 8001
+    depends_on:
+      - booking-db
+
+volumes:
+  booking-db-data:
+
+networks:
+  dbs_network:
+    external: true

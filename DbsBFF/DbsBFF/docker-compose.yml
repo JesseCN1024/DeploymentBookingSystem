@@ -1,0 +1,21 @@
+
+services:
+  dbsbff:
+    image: dbsbff:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5010:80"
+    networks:
+      - dbs_network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Docker
+      - Jwt__Secret=bbuosyJSSGPOosflUSJ75JJHst6yjjjST5rt65SY77uhSYSko098HHhgst
+      - Jwt__Issuer=https://localhost:7081/
+      - Jwt__Audience=https://localhost:7081/
+
+
+networks:
+  dbs_network:
+    external: true

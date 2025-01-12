@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DbsUsersManagementService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3a70a8c7ea878ca434f8c031b2c42d45496b376")]
 [assembly: System.Reflection.AssemblyProductAttribute("DbsUsersManagementService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DbsUsersManagementService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

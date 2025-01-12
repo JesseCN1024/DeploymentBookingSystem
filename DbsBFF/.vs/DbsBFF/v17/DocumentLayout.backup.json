@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\services\\implementations\\environmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\services\\implementations\\environmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\services\\implementations\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\services\\implementations\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\models\\dtos\\bookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\models\\dtos\\bookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\presentation\\filters\\validatemodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\presentation\\filters\\validatemodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\applicationlogic\\implementations\\deploymentsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\applicationlogic\\implementations\\deploymentsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\applicationlogic\\inferfaces\\ideploymentsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\applicationlogic\\inferfaces\\ideploymentsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\services\\interfaces\\ienvironmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\services\\interfaces\\ienvironmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\utilities\\jsonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\utilities\\jsonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\startup\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\startup\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\models\\dtos\\creatingbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\models\\dtos\\creatingbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\presentation\\validation\\validators\\validatorcreatingbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\presentation\\validation\\validators\\validatorcreatingbookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\dbsbff.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\dbsbff.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\presentation\\validation\\validators\\validatorloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\presentation\\validation\\validators\\validatorloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|d:\\users\\codes\\workspace\\fpt_intern\\deploymentbookingsystem\\dbsbff\\dbsbff\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35A2DE0D-C6DD-4A21-8E60-E997D7A72F56}|DbsBFF\\DbsBFF.csproj|solutionrelative:dbsbff\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 214,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 333,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Docker.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\appsettings.Docker.json",
+              "RelativeDocumentMoniker": "DbsBFF\\appsettings.Docker.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\appsettings.Docker.json",
+              "RelativeToolTip": "DbsBFF\\appsettings.Docker.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T14:14:01.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Program.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Program.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Program.cs",
+              "RelativeToolTip": "DbsBFF\\Program.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAjwIcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:19:31.747Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "DbsBFF\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:25:39.03Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnvironmentService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Implementations\\EnvironmentService.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Services\\Implementations\\EnvironmentService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Implementations\\EnvironmentService.cs",
+              "RelativeToolTip": "DbsBFF\\Services\\Implementations\\EnvironmentService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:35:40.884Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DbsBFF\\appsettings.Development.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\appsettings.Development.json",
+              "RelativeToolTip": "DbsBFF\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T02:43:17.046Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEnvironmentService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Interfaces\\IEnvironmentService.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Services\\Interfaces\\IEnvironmentService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Interfaces\\IEnvironmentService.cs",
+              "RelativeToolTip": "DbsBFF\\Services\\Interfaces\\IEnvironmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:35:00.761Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Implementations\\BookingService.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Services\\Implementations\\BookingService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Implementations\\BookingService.cs",
+              "RelativeToolTip": "DbsBFF\\Services\\Implementations\\BookingService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAewHoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:33:40.514Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Services\\Interfaces\\IBookingService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "DbsBFF\\Services\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:31:00.019Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "DbsBFF\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:25:30.532Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeploymentSolver.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\ApplicationLogic\\Implementations\\DeploymentSolver.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\ApplicationLogic\\Implementations\\DeploymentSolver.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\ApplicationLogic\\Implementations\\DeploymentSolver.cs",
+              "RelativeToolTip": "DbsBFF\\ApplicationLogic\\Implementations\\DeploymentSolver.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:25:22.033Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDeploymentSolver.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\ApplicationLogic\\Inferfaces\\IDeploymentSolver.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\ApplicationLogic\\Inferfaces\\IDeploymentSolver.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\ApplicationLogic\\Inferfaces\\IDeploymentSolver.cs",
+              "RelativeToolTip": "DbsBFF\\ApplicationLogic\\Inferfaces\\IDeploymentSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:25:05.037Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\appsettings.json",
+              "RelativeDocumentMoniker": "DbsBFF\\appsettings.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\appsettings.json",
+              "RelativeToolTip": "DbsBFF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T02:36:21.008Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppController.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Controllers\\AppController.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Controllers\\AppController.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Controllers\\AppController.cs",
+              "RelativeToolTip": "DbsBFF\\Controllers\\AppController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:22:01.395Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DbsBFF\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DbsBFF\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T02:46:23.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingResponseDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Models\\DTOs\\BookingResponseDto.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Models\\DTOs\\BookingResponseDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Models\\DTOs\\BookingResponseDto.cs",
+              "RelativeToolTip": "DbsBFF\\Models\\DTOs\\BookingResponseDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:16:32.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidatorCreatingBookingRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Presentation\\Validation\\Validators\\ValidatorCreatingBookingRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Presentation\\Validation\\Validators\\ValidatorCreatingBookingRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Presentation\\Validation\\Validators\\ValidatorCreatingBookingRequestDto.cs",
+              "RelativeToolTip": "DbsBFF\\Presentation\\Validation\\Validators\\ValidatorCreatingBookingRequestDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:26:32.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreatingBookingRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Models\\DTOs\\CreatingBookingRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Models\\DTOs\\CreatingBookingRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Models\\DTOs\\CreatingBookingRequestDto.cs",
+              "RelativeToolTip": "DbsBFF\\Models\\DTOs\\CreatingBookingRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:25:06.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JsonUtils.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Utilities\\JsonUtils.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Utilities\\JsonUtils.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Utilities\\JsonUtils.cs",
+              "RelativeToolTip": "DbsBFF\\Utilities\\JsonUtils.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:16:16.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "DbsBFF\\Startup\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:38:58.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidateModelFilter.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "RelativeToolTip": "DbsBFF\\Presentation\\Filters\\ValidateModelFilter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:20:21.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Models\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Models\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Models\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "DbsBFF\\Models\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T03:42:28.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ValidatorLoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Presentation\\Validation\\Validators\\ValidatorLoginRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Presentation\\Validation\\Validators\\ValidatorLoginRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Presentation\\Validation\\Validators\\ValidatorLoginRequestDto.cs",
+              "RelativeToolTip": "DbsBFF\\Presentation\\Validation\\Validators\\ValidatorLoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:21:52.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Models\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "DbsBFF\\Models\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Models\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "DbsBFF\\Models\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:08:33.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DbsBFF",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\DbsBFF.csproj",
+              "RelativeDocumentMoniker": "DbsBFF\\DbsBFF.csproj",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\DbsBFF.csproj",
+              "RelativeToolTip": "DbsBFF\\DbsBFF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T01:59:05.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Dockerfile",
+              "RelativeDocumentMoniker": "DbsBFF\\Dockerfile",
+              "ToolTip": "D:\\Users\\Codes\\workspace\\fpt_intern\\DeploymentBookingSystem\\DbsBFF\\DbsBFF\\Dockerfile",
+              "RelativeToolTip": "DbsBFF\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-28T01:58:13.669Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

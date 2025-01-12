@@ -2,13 +2,9 @@
 {
     public class RegisterRequestDto
     {
-        public required string username { get; set; }
-        public required string email { get; set; }
-        public required Guid teamId { get; set; }
-        public required Guid roleId { get; set; }
-
-
-
-
+        public  string Username { get; set; }
+        public  string Email { get; set; }
+        public  Guid TeamId { get; set; }
+        public  Guid RoleId { get; set; }
     }
 }

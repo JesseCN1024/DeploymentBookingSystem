@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DkvvQEsauIZ+IJ0DyU/RZxsALd4/CBJ+kWty4AmeMbY=",
+  "Source": "DbsEnvManagementService",
+  "BasePath": "_content/DbsEnvManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

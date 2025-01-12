@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vbODAsfU0KLxwNksaeg3kusFgTWL3obxYyQ6QjJEtsQ=",
+  "Source": "DbsBookingManagementService",
+  "BasePath": "_content/DbsBookingManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,45 @@
+services:
+  environment-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5004:80"
+    networks:
+    - dbs_network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Docker
+    depends_on:
+      - environment-db
+
+  environment-db:
+    image: postgres:13
+    networks:
+    - dbs_network
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: EnvDb
+    ports:
+      - "5433:5432"
+    volumes:
+      - environment-db-data:/var/lib/postgresql/data
+      - ./migration.sql:/docker-entrypoint-initdb.d/migration.sql
+
+  pgadmin:
+    image: dpage/pgadmin4
+    ports:
+      - "8003:8001"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+      PGADMIN_LISTEN_PORT: 8001
+    depends_on:
+      - environment-db
+
+volumes:
+  environment-db-data:
+
+networks:
+  dbs_network:
+    external: true
